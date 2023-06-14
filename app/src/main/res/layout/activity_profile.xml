@@ -55,4 +55,22 @@
         android:textColor="@color/purple_500"
         android:textSize="20sp"
         android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btnlogout"
+        android:layout_width="246dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/btnedituserprofile"
+        android:text="Logout"
+        android:textColor="@color/red"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/btnEditUserProfile"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/btnEditUserProfile"
+        app:layout_constraintTop_toBottomOf="@+id/btnEditUserProfile"
+        app:layout_constraintVertical_bias="0.069" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.diagnosaallapps.app-mergeDebugResources-52:/values-az/values-az.xml",
+            "outputFile": "com.example.diagnosaallapps.app-mergeDebugResources-59:/values-az/values-az.xml",
             "map": [
                 {
                     "source": "C:\\Users\\- ASUS -\\.gradle\\caches\\transforms-3\\5e170dee29a3070eb1bf8256418e5b12\\transformed\\material-1.9.0\\res\\values-az\\values-az.xml",

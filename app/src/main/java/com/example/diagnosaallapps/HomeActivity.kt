@@ -20,6 +20,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.diagnosaallapps.ui.theme.DiagnosaALLappsTheme
 class HomeActivity : ComponentActivity() {
+    //disini buat logic ambil data api
+    //val username = getapi
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
