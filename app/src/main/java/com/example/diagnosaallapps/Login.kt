@@ -47,8 +47,13 @@ class Login : AppCompatActivity() {
                             val UserData = UserViewModel(responseBody.accessToken.toString())
                             mainViewModel.saveuser(UserData)
                             Toast.makeText(this@Login, "${responseBody.message}", Toast.LENGTH_SHORT).show()
-                            val intent = Intent(this@Login, HomeActivity::class.java)
-                            startActivity(intent)
+//                            val intent = Intent(this@Login, HomeActivity::class.java)
+//                            startActivity(intent)
+                            if(responseBody.message=="Login Success"){
+                                val intent = Intent(this@Login, MainActivity::class.java)
+                                startActivity(intent)
+                            }
+
                         }
 
                     } else {

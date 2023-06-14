@@ -17,7 +17,7 @@
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="113dp"/>
 
-    <EditText
+    <TextView
         android:id="@+id/edtUserName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -30,7 +30,7 @@
         android:textStyle="bold"
         android:textSize="20sp" />
 
-    <EditText
+    <TextView
         android:id="@+id/edtUserId"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

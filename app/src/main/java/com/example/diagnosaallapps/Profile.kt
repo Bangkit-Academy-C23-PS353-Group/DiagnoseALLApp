@@ -27,6 +27,10 @@ class Profile : AppCompatActivity() {
         )[MainViewModel::class.java]
 
 
+        binding.btnEditUserProfile.setOnClickListener{
+            val intent = Intent(this, Upload::class.java)
+            startActivity(intent)
+        }
         binding.btnlogout.setOnClickListener{
             mainViewModel.logout()
             val intent = Intent(this,MainActivity::class.java)

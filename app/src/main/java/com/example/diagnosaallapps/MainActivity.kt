@@ -29,9 +29,13 @@ class MainActivity : AppCompatActivity() {
 
 
         mainViewModel.getuser().observe(this){
-            Toast.makeText(this,it.token,Toast.LENGTH_SHORT).show()
-            if (it.token!="" || it.token!=null){
-                val intent = Intent(this,HomeActivity::class.java)
+            if (it.token ==""){
+                val intent = Intent(this,Login::class.java)
+                startActivity(intent)
+            }
+            else{
+                val intent = Intent(this,Profile::class.java)
+                startActivity(intent)
             }
         }
 

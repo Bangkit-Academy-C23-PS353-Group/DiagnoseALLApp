@@ -40,7 +40,7 @@ class UserPreferences  private constructor(private val dataStore: DataStore<andr
 
     suspend fun ClearUser() {
         dataStore.edit { preferences ->
-            preferences[TOKEN_KEY] = ""
+            preferences[TOKEN_KEY] =""
         }
     }
 
