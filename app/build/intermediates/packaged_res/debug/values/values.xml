@@ -14,6 +14,7 @@
     <string name="login">Login</string>
     <string name="regis">Register</string>
     <string name="register">register?</string>
+    <string name="service">Service</string>
     <string name="title_activity_home">HomeActivity</string>
     <style name="Theme.DiagnosaALLapps" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         

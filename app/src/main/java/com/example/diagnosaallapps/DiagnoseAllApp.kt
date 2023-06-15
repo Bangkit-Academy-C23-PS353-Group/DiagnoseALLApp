@@ -17,6 +17,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.diagnosaallapps.HomeScreen
 import com.example.diagnosaallapps.Profile
 import com.example.diagnosaallapps.R
+import com.example.diagnosaallapps.Upload
 import com.example.diagnosaallapps.ui.navigation.Screen
 
 @Composable
@@ -38,7 +39,8 @@ fun DiagnoseAllApp(
                 Text(text = "History")
             }
             composable(Screen.Upload.route) {
-                Text(text = "Upload Here")
+//                Text(text = "Upload Here")
+                context.startActivity(Intent(context, Upload::class.java))
             }   
             composable(Screen.Profile.route) {
                 context.startActivity(Intent(context, Profile::class.java))

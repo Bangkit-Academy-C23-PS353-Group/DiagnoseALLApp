@@ -11,10 +11,13 @@ color teal_700
 color white
 drawable bigrectangle
 drawable bigrectangleblue
+drawable bloodcheck
 drawable btnedituserprofile
 drawable button
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable imagearticle
+drawable imagearticletwo
 drawable imageprofile
 drawable inputobeject
 drawable myelipse
@@ -63,6 +66,7 @@ string log_in
 string login
 string regis
 string register
+string service
 string title_activity_home
 style Theme.DiagnosaALLapps
 xml backup_rules
