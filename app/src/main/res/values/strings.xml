@@ -5,4 +5,5 @@
     <string name="register">register?</string>
     <string name="regis">Register</string>
     <string name="title_activity_home">HomeActivity</string>
+    <string name="service">Service</string>
 </resources>
