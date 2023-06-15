@@ -14,10 +14,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.diagnosaallapps.HomeScreen
-import com.example.diagnosaallapps.Profile
-import com.example.diagnosaallapps.R
-import com.example.diagnosaallapps.Upload
+import com.example.diagnosaallapps.*
 import com.example.diagnosaallapps.ui.navigation.Screen
 
 @Composable
@@ -36,7 +33,7 @@ fun DiagnoseAllApp(
                 HomeScreen()
             }
             composable(Screen.History.route) {
-                Text(text = "History")
+                context.startActivity(Intent(context, History::class.java))
             }
             composable(Screen.Upload.route) {
 //                Text(text = "Upload Here")

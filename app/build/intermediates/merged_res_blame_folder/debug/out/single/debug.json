@@ -1,158 +1,210 @@
 [
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/layout_activity_result.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/layout/activity_result.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_bloodcheck.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/bloodcheck.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/layout_activity_profile.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/layout/activity_profile.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\profile.jpg"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_profile.jpg.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/profile.jpg"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_userprofile.jpg.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\userprofile.jpg"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_rectangleback.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/rectangleback.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_btnedituserprofile.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\btnedituserprofile.png"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_inputobeject.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/inputobeject.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_searchingbar.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\searchingbar.png"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_button.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/button.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_bloodcheck.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\bloodcheck.png"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_userprofile.jpg.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/userprofile.jpg"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_btnedituserprofile.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/btnedituserprofile.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_baseline_bloodtype_24.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\baseline_bloodtype_24.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_picbutton.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\picbutton.png"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_myelipse.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/myelipse.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\layout\\activity_register.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_bigrectangle.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\bigrectangle.png"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_myelipse.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\myelipse.png"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_mylogo.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\mylogo.png"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\layout\\activity_login.xml"
     },
     {
         "merged": "com.example.diagnosaallapps.app-merged_res-69:/layout_activity_main.xml.flat",
         "source": "com.example.diagnosaallapps.app-main-71:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\layout\\activity_profile.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_rectangle.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/rectangle.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_imagearticletwo.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/imagearticletwo.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_imagearticle.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\imagearticle.png"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\layout\\activity_history.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_bigrectangleblue.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/bigrectangleblue.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_imagearticle.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/imagearticle.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_listcardpasien.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\layout\\listcardpasien.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-xxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_picbutton.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/picbutton.png"
-    },
-    {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
         "merged": "com.example.diagnosaallapps.app-merged_res-69:/layout_activity_login.xml.flat",
         "source": "com.example.diagnosaallapps.app-main-71:/layout/activity_login.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_rectangleback.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\rectangleback.png"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/layout_activity_upload.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/layout/activity_upload.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_logoall.png.flat",
+        "source": "com.example.diagnosaallapps.app-main-71:/drawable/logoall.png"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_rectangle.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\rectangle.png"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_backcardview.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\backcardview.png"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_bigrectangleblue.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\bigrectangleblue.png"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_button.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\button.png"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_dummy_diagnose.jpg.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\dummy_diagnose.jpg"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_searchvector.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\searchvector.png"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_imageprofile.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\imageprofile.png"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_picex.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\picex.png"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_imagearticletwo.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\imagearticletwo.png"
+    },
+    {
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "com.example.diagnosaallapps.app-merged_res-69:/layout_activity_register.xml.flat",
         "source": "com.example.diagnosaallapps.app-main-71:/layout/activity_register.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-anydpi-v33/ic_launcher.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_inputobeject.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\inputobeject.png"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\layout\\activity_upload.xml"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_picex.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/picex.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/xml_backup_rules.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_imageprofile.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/imageprofile.png"
-    },
-    {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/mipmap-xxxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_bigrectangle.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/bigrectangle.png"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_backresultlist.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\backresultlist.png"
     }
 ]

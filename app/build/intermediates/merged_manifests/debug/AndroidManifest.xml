@@ -30,6 +30,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.DiagnosaALLapps" >
         <activity
+            android:name="com.example.diagnosaallapps.History"
+            android:exported="false" />
+        <activity
             android:name="com.example.diagnosaallapps.HomeActivity"
             android:exported="false"
             android:label="@string/title_activity_home"
