@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="blue_profile">#118AC1</color>
+    <color name="red">#FF6262</color>
 </resources>
