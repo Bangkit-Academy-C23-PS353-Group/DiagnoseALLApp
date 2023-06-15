@@ -12,6 +12,10 @@
         "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\profile.jpg"
     },
     {
+        "merged": "com.example.diagnosaallapps.app-merged_res-69:/layout_activity_profile.xml.flat",
+        "source": "com.example.diagnosaallapps.app-main-71:/layout/activity_profile.xml"
+    },
+    {
         "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_userprofile.jpg.flat",
         "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\userprofile.jpg"
     },
@@ -60,12 +64,12 @@
         "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\mylogo.png"
     },
     {
-        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_logoall.png.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\logoall.png"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/layout_activity_main.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/layout/activity_main.xml"
+        "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\layout_activity_profile.xml.flat",
@@ -96,10 +100,6 @@
         "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/layout_activity_login.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/layout/activity_login.xml"
-    },
-    {
         "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_rectangleback.png.flat",
         "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\drawable\\rectangleback.png"
     },
@@ -114,10 +114,6 @@
     {
         "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/drawable_logoall.png.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/drawable/logoall.png"
     },
     {
         "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_rectangle.png.flat",
@@ -182,10 +178,6 @@
     {
         "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-main-71:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.diagnosaallapps.app-merged_res-69:/layout_activity_register.xml.flat",
-        "source": "com.example.diagnosaallapps.app-main-71:/layout/activity_register.xml"
     },
     {
         "merged": "C:\\Users\\- ASUS -\\.gradle\\daemon\\7.5\\com.example.diagnosaallapps.app-merged_res-69:\\drawable_inputobeject.png.flat",

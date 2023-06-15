@@ -59,7 +59,7 @@ class HomeActivity : ComponentActivity() {
 @Composable
 fun HomeScreen(modifier: Modifier = Modifier) {
         Column(modifier = modifier) {
-            Banner(userName = "Rizaldi", date = "Selasa, 13 Juni 2023")
+            Banner(userName = "Rizaldi P", date = "Selasa, 15 Juni 2023")
             SectionText(title = "Our Services")
             ServiceRow(listService = dummyServices)
             SectionText(title = "Health Article")
